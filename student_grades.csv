@@ -1,0 +1,63 @@
+﻿semester_id,class_id,department,class_name,student_id,final_grade
+SPR_2024,101,Math,Algebra,4,85
+SPR_2024,101,Math,Algebra,8,76
+SPR_2024,101,Math,Algebra,11,90
+SPR_2024,101,Math,Algebra,15,97
+SPR_2024,102,Math,Geometry,1,93
+SPR_2024,102,Math,Geometry,5,80
+SPR_2024,102,Math,Geometry,9,72
+SPR_2024,103,Math,Statistics,2,88
+SPR_2024,103,Math,Statistics,6,90
+SPR_2024,103,Math,Statistics,10,82
+SPR_2024,103,Math,Statistics,12,99
+SPR_2024,103,Math,Statistics,13,85
+SPR_2024,104,Math,Calculus,3,98
+SPR_2024,104,Math,Calculus,7,86
+SPR_2024,104,Math,Calculus,16,71
+SPR_2024,201,Science,Biology,4,82
+SPR_2024,201,Science,Biology,8,72
+SPR_2024,201,Science,Biology,11,87
+SPR_2024,201,Science,Biology,15,96
+SPR_2024,202,Science,Chemistry,1,94
+SPR_2024,202,Science,Chemistry,2,87
+SPR_2024,202,Science,Chemistry,5,74
+SPR_2024,202,Science,Chemistry,6,98
+SPR_2024,202,Science,Chemistry,9,76
+SPR_2024,203,Science,Physics,3,95
+SPR_2024,203,Science,Physics,7,82
+SPR_2024,203,Science,Physics,10,77
+SPR_2024,203,Science,Physics,12,96
+SPR_2024,203,Science,Physics,13,86
+SPR_2024,203,Science,Physics,16,74
+SPR_2024,301,Humanities,English,1,82
+SPR_2024,301,Humanities,English,4,75
+SPR_2024,301,Humanities,English,5,87
+SPR_2024,301,Humanities,English,8,80
+SPR_2024,301,Humanities,English,9,84
+SPR_2024,301,Humanities,English,11,98
+SPR_2024,301,Humanities,English,15,99
+SPR_2024,302,Humanities,World History,2,75
+SPR_2024,302,Humanities,World History,3,92
+SPR_2024,302,Humanities,World History,6,95
+SPR_2024,302,Humanities,World History,7,94
+SPR_2024,302,Humanities,World History,10,84
+SPR_2024,302,Humanities,World History,12,98
+SPR_2024,302,Humanities,World History,13,82
+SPR_2024,302,Humanities,World History,16,86
+SPR_2024,401,General,Physical Education,1,85
+SPR_2024,401,General,Physical Education,2,80
+SPR_2024,401,General,Physical Education,4,95
+SPR_2024,401,General,Physical Education,5,85
+SPR_2024,401,General,Physical Education,6,95
+SPR_2024,401,General,Physical Education,8,90
+SPR_2024,401,General,Physical Education,9,90
+SPR_2024,401,General,Physical Education,10,85
+SPR_2024,401,General,Physical Education,11,95
+SPR_2024,401,General,Physical Education,12,95
+SPR_2024,401,General,Physical Education,13,90
+SPR_2024,401,General,Physical Education,15,95
+SPR_2024,404,General,Senior Seminar,3,100
+SPR_2024,404,General,Senior Seminar,7,98
+SPR_2024,404,General,Senior Seminar,16,95
+SPR_2024,404,General,Senior Seminar,17,
+SPR_2024,404,General,Senior Seminar,18,
